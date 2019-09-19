@@ -10,12 +10,12 @@ redirect_from:
 {% include base_path %}
 
 Conference Program Committee Member
-======
+------
 * AAAI 2020
 * IJCAI 2019 (Main track and Demo track)
 
 Reviewer for International Journal
-======
+------
 * Journal of Artificial Intelligent Research (JAIR)
 * IISE Transactions (Previous IIE Transactions)
 * Computers & Operations Research
