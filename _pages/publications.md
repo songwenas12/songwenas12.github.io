@@ -11,13 +11,13 @@ author_profile: true
 
 {% include base_path %}
 
-#{% for post in site.publications reversed %}
+# {% for post in site.publications reversed %}
 #  {% include archive-single.html %}
-#{% endfor %}
+# {% endfor %}
 
-* **Wen Song**, Donghun Kang, Jie Zhang, Zhiguang Cao and Hui Xi.  **A Sampling Approach for Proactive Project Scheduling under Generalized Time-dependent Workability Uncertainty**. *Journal of Artificial Intelligence Research (JAIR)*, 64:385-427, 2019.
+* **Wen Song**, Donghun Kang, Jie Zhang, Zhiguang Cao and Hui Xi.  [A Sampling Approach for Proactive Project Scheduling under Generalized Time-dependent Workability Uncertainty](https://www.jair.org/index.php/jair/article/view/11369/26476). *Journal of Artificial Intelligence Research (JAIR)*, 64:385-427, 2019.
 
-* Luhao Wang, Bingying Zhang, Qiqiang Li, **Wen Song** and Guanguan Li. **Robust distributed optimization for energy dispatch of multi-stakeholdermultiple microgrids under uncertainty**. *Applied Energy*, 2019. (accepted)
+* Luhao Wang, Bingying Zhang, Qiqiang Li, **Wen Song** and Guanguan Li. Robust distributed optimization for energy dispatch of multi-stakeholdermultiple microgrids under uncertainty. *Applied Energy*, 2019. (accepted)
 
 * Sa Gao, Chunyang Chen, Zhenchang Xing, Yukun Ma, Wen Song and Shang-Wei Lin. A neural model for method name generation from functional description. IEEE 26th International Conference on Software Analysis, Evolution and Reengineering (SANER), 2019.
 * Wen Song, Donghun Kang, Jie Zhang and Hui Xi. Risk-aware Proactive Scheduling via Conditional Value-at-Risk. Thirty-second AAAI Conference on Artificial Intelligence (AAAI), 2018. (Oral presentation)
