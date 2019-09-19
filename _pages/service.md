@@ -9,8 +9,17 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Conference Program Committee Member
 ======
-* Ph.D in Computer Science, Nanyang Technological University, Singapore, 2018
-* M.S. in Control Science and Engineering, Shandong University, China, 2014
-* B.S. in Control Science and Engineering, Shandong University, China, 2011
+* AAAI 2020
+* IJCAI 2019 (Main track and Demo track)
+
+Reviewer for International Journal
+======
+* Journal of Artificial Intelligent Research (JAIR)
+* IISE Transactions (Previous IIE Transactions)
+* Computers & Operations Research
+* Simulation Modelling Practice and Theory
+* International Transactions in Operational Research
+* Journal of Renewable and Sustainable Energy
+* Plos One
