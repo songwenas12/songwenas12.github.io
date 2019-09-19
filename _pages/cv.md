@@ -15,9 +15,9 @@ Education
 * M.S. in Control Science and Engineering, Shandong University, China, 2014
 * B.S. in Control Science and Engineering, Shandong University, China, 2011
 
-#Work experience
-#======
-#* Fall 2015: Research Assistant
+Work experience
+======
+* Fall 2015: Research Assistant
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
