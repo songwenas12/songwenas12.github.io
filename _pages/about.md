@@ -14,4 +14,9 @@ I am currently an (tenure-track) associate professor in the Institute of Marine 
 
 Research Interests
 ======
-Artificial Intelligence, Deep Learning, Reinforcement Learning, Multi-agent Systems, Planning and Scheduling, Combinatorial Optimization.
+* Artificial Intelligence 
+* Deep Learning
+* Reinforcement Learning
+* Multi-agent Systems
+* Planning and Scheduling
+* Combinatorial Optimization
