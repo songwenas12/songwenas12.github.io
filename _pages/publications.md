@@ -13,7 +13,7 @@ author_profile: true
 
 * **Wen Song**, Donghun Kang, Jie Zhang, Zhiguang Cao and Hui Xi.  [A Sampling Approach for Proactive Project Scheduling under Generalized Time-dependent Workability Uncertainty](https://www.jair.org/index.php/jair/article/view/11369/26476). *Journal of Artificial Intelligence Research (JAIR)*, 64:385-427, 2019.
 
-* **Wen Song**, Zhiguang Cao, Jie Zhang and Andrew Lim. Learning Variable Ordering Heuristics for Solving Constraint Satisfaction Problems. *Submitted to IEEE Transactions on Pattern Analysis and Machine Intelligence*, 2019.
+* **Wen Song**, Zhiguang Cao, Jie Zhang and Andrew Lim. [Learning Variable Ordering Heuristics for Solving Constraint Satisfaction Problems](https://arxiv.org/pdf/1912.10762.pdf). *arXiv preprint arXiv:1912.10762*, 2019.
 
 * Yaoxin Wu, **Wen Song**, Zhiguang Cao, Jie Zhang and Andrew Lim. [Learning Improvement Heuristics for Solving the Travelling Salesman Problem](https://arxiv.org/pdf/1912.05784.pdf). *arXiv preprint arXiv:1912.05784*, 2019.
 
