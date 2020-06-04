@@ -12,6 +12,9 @@ author_profile: true
 {% include base_path %}
 
 * Zhiguang Cao, Hongliang Guo, **Wen Song**, Kaizhou Gao, Zhenghua Chen, Le Zhang and Xuexi Zhang. [Using Reinforcement Learning to Minimize the Probability of Delay Occurrence in Transportation](https://ieeexplore.ieee.org/document/8952783). *IEEE Transactions on Vehicular Technology (TVT)*, 2020.
+
+* Zhiguang Cao, Hongliang Guo, **Wen Song**, Kaizhou Gao, Liujiang Kang, Xuexi Zhang and Qilun Wu. [Improving the Performance of Transportation Networks: A Semi-Centralized Pricing Approach](https://ieeexplore.ieee.org/abstract/document/9098067). *IEEE Transactions on Intelligent Transportation Systems (ITS)*, 2020.
+
 * **Wen Song**, Donghun Kang, Jie Zhang, Zhiguang Cao and Hui Xi.  [A Sampling Approach for Proactive Project Scheduling under Generalized Time-dependent Workability Uncertainty](https://www.jair.org/index.php/jair/article/view/11369/26476). *Journal of Artificial Intelligence Research (JAIR)*, 64:385-427, 2019.
 
 * **Wen Song**, Zhiguang Cao, Jie Zhang and Andrew Lim. [Learning Variable Ordering Heuristics for Solving Constraint Satisfaction Problems](https://arxiv.org/pdf/1912.10762.pdf). *arXiv preprint arXiv:1912.10762*, 2019.
