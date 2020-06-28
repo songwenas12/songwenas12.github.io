@@ -21,7 +21,7 @@ author_profile: true
 
 * **Wen Song**, Zhiguang Cao, Jie Zhang and Andrew Lim. [Learning Variable Ordering Heuristics for Solving Constraint Satisfaction Problems](https://arxiv.org/pdf/1912.10762.pdf). *arXiv preprint arXiv:1912.10762*, 2019.
 
-* Yaoxin Wu, **Wen Song**, Zhiguang Cao, Jie Zhang and Andrew Lim. [Learning Improvement Heuristics for Solving the Travelling Salesman Problem](https://arxiv.org/pdf/1912.05784.pdf). *arXiv preprint arXiv:1912.05784*, 2019.
+* Yaoxin Wu, **Wen Song**, Zhiguang Cao, Jie Zhang and Andrew Lim. [Learning Improvement Heuristics for Solving Routing Problems](https://arxiv.org/pdf/1912.05784.pdf). *arXiv preprint arXiv:1912.05784*, 2019.
 
 * Luhao Wang, Bingying Zhang, Qiqiang Li, **Wen Song** and Guanguan Li. Robust distributed optimization for energy dispatch of multi-stakeholdermultiple microgrids under uncertainty. *Applied Energy*, 2019. (accepted)
 
