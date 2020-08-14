@@ -11,6 +11,7 @@ redirect_from:
 
 Conference Program Committee Member
 ------
+* AAMAS 2011
 * AAAI 2020
 * IJCAI 2019 (Main track and Demo track)
 
