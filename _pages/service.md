@@ -11,8 +11,8 @@ redirect_from:
 
 Conference Program Committee Member
 ------
-* AAMAS 2011
-* AAAI 2020
+* AAAI 2021, 2020
+* AAMAS 2021
 * IJCAI 2019 (Main track and Demo track)
 
 Reviewer for International Journal
