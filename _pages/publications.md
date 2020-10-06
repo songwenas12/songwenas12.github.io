@@ -11,11 +11,17 @@ author_profile: true
 
 {% include base_path %}
 
+(# means equal contribution, * means corresponding author)
+
+Journal Papers
+======
+* Liang Xin, **Wen Song**(*), Zhiguang Cao and Jie Zhang. Step-wise Deep Learning Models for Solving Routing Problems, *IEEE Transactions on Industrial Informatics (TII)*, 2020. (Accepted)
+
 * Zhiguang Cao, Hongliang Guo, **Wen Song**, Kaizhou Gao, Zhenghua Chen, Le Zhang and Xuexi Zhang. [Using Reinforcement Learning to Minimize the Probability of Delay Occurrence in Transportation](https://ieeexplore.ieee.org/document/8952783). *IEEE Transactions on Vehicular Technology (TVT)*, 2020.
 
 * Zhiguang Cao, Hongliang Guo, **Wen Song**, Kaizhou Gao, Liujiang Kang, Xuexi Zhang and Qilun Wu. [Improving the Performance of Transportation Networks: A Semi-Centralized Pricing Approach](https://ieeexplore.ieee.org/abstract/document/9098067). *IEEE Transactions on Intelligent Transportation Systems (ITS)*, 2020.
 
-* Zhiguang Cao, Tingbo Liao, **Wen Song**, Zhenghua Chen and Chongshou Li. [Detecting the shuttlecock for a badminton robot: A YOLO based approach](https://www.sciencedirect.com/science/article/abs/pii/S0957417420306436). *Expert Systems with Applications*, 2020.
+* Zhiguang Cao, Tingbo Liao, **Wen Song**(*), Zhenghua Chen and Chongshou Li. [Detecting the shuttlecock for a badminton robot: A YOLO based approach](https://www.sciencedirect.com/science/article/abs/pii/S0957417420306436). *Expert Systems with Applications*, 2020.
 
 * Chao Ma, Zhenbing Liu, Zhiguang Cao, **Wen Song**, Jie Zhang and Weiliang Zeng. [Cost-sensitive Deep Forest for Price Prediction](https://www.sciencedirect.com/science/article/abs/pii/S0031320320303022?via%3Dihub). *Pattern Recognition*, 2020.
 
@@ -27,13 +33,18 @@ author_profile: true
 
 * Luhao Wang, Bingying Zhang, Qiqiang Li, **Wen Song** and Guanguan Li. [Robust distributed optimization for energy dispatch of multi-stakeholdermultiple microgrids under uncertainty](https://www.sciencedirect.com/science/article/abs/pii/S0306261919315326). *Applied Energy*, 2019. 
 
-* Sa Gao, Chunyang Chen, Zhenchang Xing, Yukun Ma, **Wen Song** and Shang-Wei Lin. A neural model for method name generation from functional description. *IEEE 26th International Conference on Software Analysis, Evolution and Reengineering (SANER)*, 2019.
-
-* **Wen Song**, Donghun Kang, Jie Zhang and Hui Xi. [Risk-aware Proactive Scheduling via Conditional Value-at-Risk](https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16228/16200). *Thirty-second AAAI Conference on Artificial Intelligence (AAAI)*, 2018. (Oral presentation)
-
 * **WenSong**, Hui Xi, Donghun Kang and Jie Zhang. [An Agent-based Simulation System for Multi-Project Scheduling under Uncertainty](https://www.sciencedirect.com/science/article/pii/S1569190X18300728). *Simulation Modelling Practice and Theory*, 86:187-203, 2018. 
 
 * **Wen Song**, Donghun Kang, Jie Zhang and Hui Xi. [A Multi-Unit Combinatorial Auction based Approach for Decentralized Multi-Project Scheduling](https://link.springer.com/article/10.1007/s10458-017-9370-z). *Journal of Autonomous Agents and Multiagent Systems (JAAMAS)*, 31:1548–1577, 2017.
+
+
+Conference Papers
+=======
+* Cong Zhang(#), **Wen Song**(#), Zhiguang Cao, Jie Zhang, Puay Siew Tan and Chi Xu, Learning to Dispatch for Job Shop Scheduling via Deep Reinforcement Learning. *34th Conference on Neural Information Processing Systems (NeurIPS)*, 2020.
+
+* Sa Gao, Chunyang Chen, Zhenchang Xing, Yukun Ma, **Wen Song** and Shang-Wei Lin. A neural model for method name generation from functional description. *IEEE 26th International Conference on Software Analysis, Evolution and Reengineering (SANER)*, 2019.
+
+* **Wen Song**, Donghun Kang, Jie Zhang and Hui Xi. [Risk-aware Proactive Scheduling via Conditional Value-at-Risk](https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16228/16200). *Thirty-second AAAI Conference on Artificial Intelligence (AAAI)*, 2018. (Oral presentation)
 
 * Donghun Kang, Zhenchao Bing, **Wen Song**, Zehong Hu, Shuo Chen, Jie Zhang and Hui Xi. Automatic Construction of Agent-based Simulation Using Business Process Diagrams and Ontology-based Models (Demo). *16th International Conference on Autonomous Agents and Multiagent Systems (AAMAS)*, 2017.
 
