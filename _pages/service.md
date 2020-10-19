@@ -13,12 +13,12 @@ Conference Program Committee Member
 ------
 * AAAI 2021, 2020
 * AAMAS 2021
-* IJCAI 2019 (Main track and Demo track)
+* IJCAI 2021, 2019
 
 Reviewer for International Journal
 ------
 * Journal of Artificial Intelligent Research (JAIR)
-* IEEE Transactions on Neural Networks and Learning Systems 
+* IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
 * IISE Transactions (Previous IIE Transactions)
 * Computers & Operations Research
 * Simulation Modelling Practice and Theory
