@@ -15,7 +15,7 @@ author_profile: true
 
 Journal Papers
 ======
-* Liang Xin, **Wen Song**\*, Zhiguang Cao and Jie Zhang. Step-wise Deep Learning Models for Solving Routing Problems, *IEEE Transactions on Industrial Informatics (TII)*, 2020. (Accepted)
+* Liang Xin, **Wen Song**\*, Zhiguang Cao and Jie Zhang. [Step-wise Deep Learning Models for Solving Routing Problems](https://ieeexplore.ieee.org/abstract/document/9226142/). *IEEE Transactions on Industrial Informatics (TII)*, 2020. (Accepted)
 
 * Zhiguang Cao, Hongliang Guo, **Wen Song**, Kaizhou Gao, Zhenghua Chen, Le Zhang and Xuexi Zhang. [Using Reinforcement Learning to Minimize the Probability of Delay Occurrence in Transportation](https://ieeexplore.ieee.org/document/8952783). *IEEE Transactions on Vehicular Technology (TVT)*, 2020.
 
@@ -40,7 +40,7 @@ Journal Papers
 
 Conference Papers
 =======
-* Cong Zhang(#), **Wen Song**(#), Zhiguang Cao, Jie Zhang, Puay Siew Tan and Chi Xu. Learning to Dispatch for Job Shop Scheduling via Deep Reinforcement Learning. *34th Conference on Neural Information Processing Systems (NeurIPS)*, 2020.
+* Cong Zhang(#), **Wen Song**(#), Zhiguang Cao, Jie Zhang, Puay Siew Tan and Chi Xu. [Learning to Dispatch for Job Shop Scheduling via Deep Reinforcement Learning](https://arxiv.org/pdf/2010.12367.pdf). *34th Conference on Neural Information Processing Systems (NeurIPS)*, 2020.
 
 * Sa Gao, Chunyang Chen, Zhenchang Xing, Yukun Ma, **Wen Song** and Shang-Wei Lin. A neural model for method name generation from functional description. *IEEE 26th International Conference on Software Analysis, Evolution and Reengineering (SANER)*, 2019.
 
