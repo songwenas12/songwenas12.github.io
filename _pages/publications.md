@@ -40,6 +40,8 @@ Journal Papers
 
 Conference Papers
 =======
+* Liang Xin(#), **Wen Song**(#), Zhiguang Cao and Jie Zhang. Multi-Decoder Attention Model with Embedding Glimpse for Solving Vehicle Routing Problems. *35th AAAI Conference on Artificial Intelligence (AAAI)*, 2021.
+
 * Cong Zhang(#), **Wen Song**(#), Zhiguang Cao, Jie Zhang, Puay Siew Tan and Chi Xu. [Learning to Dispatch for Job Shop Scheduling via Deep Reinforcement Learning](https://arxiv.org/pdf/2010.12367.pdf). *34th Conference on Neural Information Processing Systems (NeurIPS)*, 2020.
 
 * Sa Gao, Chunyang Chen, Zhenchang Xing, Yukun Ma, **Wen Song** and Shang-Wei Lin. A neural model for method name generation from functional description. *IEEE 26th International Conference on Software Analysis, Evolution and Reengineering (SANER)*, 2019.
