@@ -19,6 +19,7 @@ Reviewer for International Journal
 ------
 * Journal of Artificial Intelligent Research (JAIR)
 * IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
+* Artificial Intelligence Review
 * IISE Transactions (Previous IIE Transactions)
 * Computers & Operations Research
 * Simulation Modelling Practice and Theory
