@@ -15,7 +15,7 @@ author_profile: true
 
 Journal Papers
 ======
-* Jingwen Li, Liang Xin, Zhiguang Cao, Andrew Lim, **Wen Song**, and Jie Zhang. [Heterogeneous Attentions for Solving Pickup and Delivery Problem via Deep Reinforcement Learning] (https://ieeexplore.ieee.org/abstract/document/9352489/). *IEEE Transactions on Intelligent Transportation Systems (ITS)*, 2021.
+* Jingwen Li, Liang Xin, Zhiguang Cao, Andrew Lim, **Wen Song**, and Jie Zhang. [Heterogeneous Attentions for Solving Pickup and Delivery Problem via Deep Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/9352489/). *IEEE Transactions on Intelligent Transportation Systems (ITS)*, 2021.
 
 * Liang Xin, **Wen Song**\*, Zhiguang Cao and Jie Zhang. [Step-wise Deep Learning Models for Solving Routing Problems](https://ieeexplore.ieee.org/abstract/document/9226142/). *IEEE Transactions on Industrial Informatics (TII)*, 2020. (Accepted)
 
