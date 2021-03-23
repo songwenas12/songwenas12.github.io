@@ -15,6 +15,10 @@ author_profile: true
 
 Journal Papers
 ======
+* Yaoxin Wu, **Wen Song**\*, Zhiguang Cao, Jie Zhang and Andrew Lim. [Learning Improvement Heuristics for Solving Routing Problems](https://arxiv.org/pdf/1912.05784.pdf). *IEEE Transactions on Neural Networks and Learning Systems (TNNLS)*, 2021. (Accepted)
+
+* Zhiguang Cao, Tingbo Liao, **Wen Song**\*, Zhenghua Chen and Chongshou Li. [Detecting the shuttlecock for a badminton robot: A YOLO based approach](https://www.sciencedirect.com/science/article/abs/pii/S0957417420306436). *Expert Systems with Applications*, 2021.
+
 * Jingwen Li, Liang Xin, Zhiguang Cao, Andrew Lim, **Wen Song**, and Jie Zhang. [Heterogeneous Attentions for Solving Pickup and Delivery Problem via Deep Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/9352489/). *IEEE Transactions on Intelligent Transportation Systems (ITS)*, 2021.
 
 * Liang Xin, **Wen Song**\*, Zhiguang Cao and Jie Zhang. [Step-wise Deep Learning Models for Solving Routing Problems](https://ieeexplore.ieee.org/abstract/document/9226142/). *IEEE Transactions on Industrial Informatics (TII)*, 2020. (Accepted)
@@ -23,13 +27,9 @@ Journal Papers
 
 * Zhiguang Cao, Hongliang Guo, **Wen Song**, Kaizhou Gao, Liujiang Kang, Xuexi Zhang and Qilun Wu. [Improving the Performance of Transportation Networks: A Semi-Centralized Pricing Approach](https://ieeexplore.ieee.org/abstract/document/9098067). *IEEE Transactions on Intelligent Transportation Systems (ITS)*, 2020.
 
-* Zhiguang Cao, Tingbo Liao, **Wen Song**\*, Zhenghua Chen and Chongshou Li. [Detecting the shuttlecock for a badminton robot: A YOLO based approach](https://www.sciencedirect.com/science/article/abs/pii/S0957417420306436). *Expert Systems with Applications*, 2020.
-
 * Chao Ma, Zhenbing Liu, Zhiguang Cao, **Wen Song**, Jie Zhang and Weiliang Zeng. [Cost-sensitive Deep Forest for Price Prediction](https://www.sciencedirect.com/science/article/abs/pii/S0031320320303022?via%3Dihub). *Pattern Recognition*, 2020.
 
 * **Wen Song**, Zhiguang Cao, Jie Zhang and Andrew Lim. [Learning Variable Ordering Heuristics for Solving Constraint Satisfaction Problems](https://arxiv.org/pdf/1912.10762.pdf). *arXiv preprint arXiv:1912.10762*, 2020.
-
-* Yaoxin Wu, **Wen Song**, Zhiguang Cao, Jie Zhang and Andrew Lim. [Learning Improvement Heuristics for Solving Routing Problems](https://arxiv.org/pdf/1912.05784.pdf). *arXiv preprint arXiv:1912.05784*, 2020.
 
 * **Wen Song**, Donghun Kang, Jie Zhang, Zhiguang Cao and Hui Xi.  [A Sampling Approach for Proactive Project Scheduling under Generalized Time-dependent Workability Uncertainty](https://www.jair.org/index.php/jair/article/view/11369/26476). *Journal of Artificial Intelligence Research (JAIR)*, 64:385-427, 2019.
 
