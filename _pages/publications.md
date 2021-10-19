@@ -15,7 +15,7 @@ author_profile: true
 
 Journal Papers
 ======
-* Yaoxin Wu, **Wen Song**\*, Zhiguang Cao\*, Jie Zhang and Andrew Lim. [Learning Improvement Heuristics for Solving Routing Problems](https://ieeexplore.ieee.org/document/9393606). *IEEE Transactions on Neural Networks and Learning Systems (TNNLS)*, 2021. (Accepted)
+* Yaoxin Wu, **Wen Song**\*, Zhiguang Cao\*, Jie Zhang and Andrew Lim. [Learning Improvement Heuristics for Solving Routing Problems](https://ieeexplore.ieee.org/document/9393606). *IEEE Transactions on Neural Networks and Learning Systems (TNNLS)*, 2021.
 
 * Zhiguang Cao, Tingbo Liao, **Wen Song**\*, Zhenghua Chen and Chongshou Li. [Detecting the shuttlecock for a badminton robot: A YOLO based approach](https://www.sciencedirect.com/science/article/abs/pii/S0957417420306436). *Expert Systems with Applications*, 2021.
 
@@ -23,7 +23,7 @@ Journal Papers
 
 * Yunyun Niu, Yongpeng Zhang, Zhiguang Cao, Kaizhou Gao, Jianhua Xiao, **Wen Song** and Fangwei Zhang. [MIMOA: A membrane-inspired multi-objective algorithm for green vehicle routing problem with stochastic demands](https://www.sciencedirect.com/science/article/pii/S221065022030420X). *Swarm and Evolutionary Computation*, 2021.
 
-* Liang Xin, **Wen Song**\*, Zhiguang Cao and Jie Zhang. [Step-wise Deep Learning Models for Solving Routing Problems](https://ieeexplore.ieee.org/abstract/document/9226142/). *IEEE Transactions on Industrial Informatics (TII)*, 2020. (Accepted)
+* Liang Xin, **Wen Song**\*, Zhiguang Cao and Jie Zhang. [Step-wise Deep Learning Models for Solving Routing Problems](https://ieeexplore.ieee.org/abstract/document/9226142/). *IEEE Transactions on Industrial Informatics (TII)*, 2020.
 
 * Zhiguang Cao, Hongliang Guo, **Wen Song**, Kaizhou Gao, Zhenghua Chen, Le Zhang and Xuexi Zhang. [Using Reinforcement Learning to Minimize the Probability of Delay Occurrence in Transportation](https://ieeexplore.ieee.org/document/8952783). *IEEE Transactions on Vehicular Technology (TVT)*, 2020.
 
