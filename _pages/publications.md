@@ -44,9 +44,15 @@ Journal Papers
 
 Conference Papers
 =======
+* Yaoxin Wu, **Wen Song**\*, Zhiguang Cao, and Jie Zhang. Learning Large Neighborhood Search Policy for Integer Programming. *Advances in Neural Information Processing Systems (NeurIPS)*, 2021.
+
+* Liang Xin, **Wen Song**, Zhiguang Cao, and Jie Zhang. [NeuroLKH: Combining Deep Learning Model with Lin-Kernighan-Helsgaun Heuristic for Solving the Traveling Salesman Problem](https://arxiv.org/pdf/2110.07983.pdf). *Advances in Neural Information Processing Systems (NeurIPS)*, 2021.
+
+* Yining Ma, Jingwen Li, Zhiguang Cao\*, **Wen Song**\*, Le Zhang, Zhenghua Chen, and Jing Tang. [Learning to Iteratively Solve Routing Problems with Dual-Aspect Collaborative Transformer](https://arxiv.org/pdf/2110.02544.pdf). *Advances in Neural Information Processing Systems (NeurIPS)*, 2021.
+
 * Liang Xin(#), **Wen Song**(#), Zhiguang Cao and Jie Zhang. [Multi-Decoder Attention Model with Embedding Glimpse for Solving Vehicle Routing Problems](https://arxiv.org/pdf/2012.10638.pdf). *35th AAAI Conference on Artificial Intelligence (AAAI)*, 2021.
 
-* Cong Zhang(#), **Wen Song**(#), Zhiguang Cao, Jie Zhang, Puay Siew Tan and Chi Xu. [Learning to Dispatch for Job Shop Scheduling via Deep Reinforcement Learning](https://arxiv.org/pdf/2010.12367.pdf). *34th Conference on Neural Information Processing Systems (NeurIPS)*, 2020.
+* Cong Zhang(#), **Wen Song**(#), Zhiguang Cao, Jie Zhang, Puay Siew Tan and Chi Xu. [Learning to Dispatch for Job Shop Scheduling via Deep Reinforcement Learning](https://arxiv.org/pdf/2010.12367.pdf). *Advances in Neural Information Processing Systems (NeurIPS)*, 2020.
 
 * Sa Gao, Chunyang Chen, Zhenchang Xing, Yukun Ma, **Wen Song** and Shang-Wei Lin. A neural model for method name generation from functional description. *IEEE 26th International Conference on Software Analysis, Evolution and Reengineering (SANER)*, 2019.
 
