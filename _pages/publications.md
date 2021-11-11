@@ -44,7 +44,7 @@ Journal Papers
 
 Conference Papers
 =======
-* Yaoxin Wu, **Wen Song**\*, Zhiguang Cao, and Jie Zhang. Learning Large Neighborhood Search Policy for Integer Programming. *Advances in Neural Information Processing Systems (NeurIPS)*, 2021.
+* Yaoxin Wu, **Wen Song**\*, Zhiguang Cao, and Jie Zhang. [Learning Large Neighborhood Search Policy for Integer Programming](https://arxiv.org/pdf/2111.03466.pdf). *Advances in Neural Information Processing Systems (NeurIPS)*, 2021.
 
 * Liang Xin, **Wen Song**, Zhiguang Cao, and Jie Zhang. [NeuroLKH: Combining Deep Learning Model with Lin-Kernighan-Helsgaun Heuristic for Solving the Traveling Salesman Problem](https://arxiv.org/pdf/2110.07983.pdf). *Advances in Neural Information Processing Systems (NeurIPS)*, 2021.
 
