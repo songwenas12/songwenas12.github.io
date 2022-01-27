@@ -21,6 +21,8 @@ Journal Papers
 
 * Zhiguang Cao, Tingbo Liao, **Wen Song**\*, Zhenghua Chen and Chongshou Li. [Detecting the shuttlecock for a badminton robot: A YOLO based approach](https://www.sciencedirect.com/science/article/abs/pii/S0957417420306436). *Expert Systems with Applications*, 2021.
 
+* Jingwen Li, Yining Ma, Ruize Gao, Zhiguang Cao, Andrew Lim, **Wen Song** and Jie Zhang. [Deep reinforcement learning for solving the heterogeneous capacitated vehicle routing problem](https://ieeexplore.ieee.org/abstract/document/9547060/). *IEEE Transactions on Cybernetics*, 2021.
+
 * Jingwen Li, Liang Xin, Zhiguang Cao, Andrew Lim, **Wen Song** and Jie Zhang. [Heterogeneous Attentions for Solving Pickup and Delivery Problem via Deep Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/9352489/). *IEEE Transactions on Intelligent Transportation Systems (ITS)*, 2021.
 
 * Yunyun Niu, Yongpeng Zhang, Zhiguang Cao, Kaizhou Gao, Jianhua Xiao, **Wen Song** and Fangwei Zhang. [MIMOA: A membrane-inspired multi-objective algorithm for green vehicle routing problem with stochastic demands](https://www.sciencedirect.com/science/article/pii/S221065022030420X). *Swarm and Evolutionary Computation*, 2021.
