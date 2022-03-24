@@ -48,7 +48,7 @@ Journal Papers
 
 Conference Papers
 =======
-* Yaoxin Wu, **Wen Song**(#), Zhiguang Cao, and Jie Zhang. [Learning Scenario Representation for Solving Two-stage Stochastic Integer Programs](). *International Conference on Learning Representations (ICLR)*, 2022.
+* Yaoxin Wu, **Wen Song**(#), Zhiguang Cao, and Jie Zhang. [Learning Scenario Representation for Solving Two-stage Stochastic Integer Programs](https://openreview.net/pdf?id=06Wy2BtxXrz). *International Conference on Learning Representations (ICLR)*, 2022.
 
 * Yaoxin Wu, **Wen Song**\*, Zhiguang Cao, and Jie Zhang. [Learning Large Neighborhood Search Policy for Integer Programming](https://arxiv.org/pdf/2111.03466.pdf). *Advances in Neural Information Processing Systems (NeurIPS)*, 2021.
 
