@@ -19,6 +19,8 @@ Journal Papers
 
 * Zhizheng Zhang, **Wen Song**\* and Qiqiang Li\*. [Dual Aspect Self-Attention based on Transformer for Remaining Useful Life Prediction](https://ieeexplore.ieee.org/document/9737516). *IEEE Transactions on Instrumentation and Measurement (TIM)*, 2022
 
+* Zhonghao Zhang, Qiqiang Li\*, **Wen Song**\*, Pengfei Wei, Jing Guo. [A novel concavity based method for automatic segmentation of touching cells in microfluidic chips](https://www.sciencedirect.com/science/article/pii/S0957417422007692). *Expert Systems with Applications*, 2022.
+
 * Yaoxin Wu, **Wen Song**\*, Zhiguang Cao\*, Jie Zhang and Andrew Lim. [Learning Improvement Heuristics for Solving Routing Problems](https://ieeexplore.ieee.org/document/9393606). *IEEE Transactions on Neural Networks and Learning Systems (TNNLS)*, 2021.
 
 * Zhiguang Cao, Tingbo Liao, **Wen Song**\*, Zhenghua Chen and Chongshou Li. [Detecting the shuttlecock for a badminton robot: A YOLO based approach](https://www.sciencedirect.com/science/article/abs/pii/S0957417420306436). *Expert Systems with Applications*, 2021.
@@ -48,6 +50,8 @@ Journal Papers
 
 Conference Papers
 =======
+* Yining Ma, Jingwen Li, Zhiguang Cao, **Wen Song**, Hongliang Guo, Yuejiao Gong, and Yeow Meng Chee. [Efficient Neural Neighbourhood Search for Pickup and Delivery Problems](https://arxiv.org/abs/2204.11399). *31st International Joint Conference on Artificial Intelligence (IJCAI)*, 2022.
+
 * Yaoxin Wu, **Wen Song**(#), Zhiguang Cao, and Jie Zhang. [Learning Scenario Representation for Solving Two-stage Stochastic Integer Programs](https://openreview.net/pdf?id=06Wy2BtxXrz). *International Conference on Learning Representations (ICLR)*, 2022.
 
 * Yaoxin Wu, **Wen Song**\*, Zhiguang Cao, and Jie Zhang. [Learning Large Neighborhood Search Policy for Integer Programming](https://arxiv.org/pdf/2111.03466.pdf). *Advances in Neural Information Processing Systems (NeurIPS)*, 2021.
