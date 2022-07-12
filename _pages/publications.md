@@ -15,7 +15,7 @@ author_profile: true
 
 Journal Papers
 ======
-* **Wen Song**, Xinyang Chen, Qiqiang Li and Zhiguang Cao. [Flexible Job Shop Scheduling via Graph Neural Network and Deep Reinforcement Learning](). *IEEE Transactions on Industrial Informatics*, 2022.
+* **Wen Song**, Xinyang Chen, Qiqiang Li and Zhiguang Cao. [Flexible Job Shop Scheduling via Graph Neural Network and Deep Reinforcement Learning](https://ieeexplore.ieee.org/document/9826438). *IEEE Transactions on Industrial Informatics*, 2022.
 
 * **Wen Song**, Zhiguang Cao, Jie Zhang and Andrew Lim. [Learning Variable Ordering Heuristics for Solving Constraint Satisfaction Problems](https://www.sciencedirect.com/science/article/pii/S0952197621004255). *Engineering Applications of Artificial Intelligence*, 2022.
 
