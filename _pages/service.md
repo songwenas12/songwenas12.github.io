@@ -25,6 +25,7 @@ Reviewer for International Journal
 * Artificial Intelligence Review
 * Applied Intelligence
 * IISE Transactions (Previous IIE Transactions)
+* International Journal of Production Research
 * Computers & Operations Research
 * Simulation Modelling Practice and Theory
 * International Transactions in Operational Research
