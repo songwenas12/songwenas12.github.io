@@ -21,6 +21,7 @@ Reviewer for International Journal
 * Journal of Artificial Intelligent Research (JAIR)
 * IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
 * IEEE Transactions on Intelligent Transportation Systems (TITS)
+* IEEE Transactions on Automation Science and Engineering (TASE)
 * IEEE Transactions on Vehicular Technology
 * Artificial Intelligence Review
 * Applied Intelligence
