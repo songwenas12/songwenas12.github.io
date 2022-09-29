@@ -19,6 +19,9 @@ Journal Papers
 
 * **Wen Song**, Zhiguang Cao, Jie Zhang and Andrew Lim. [Learning Variable Ordering Heuristics for Solving Constraint Satisfaction Problems](https://www.sciencedirect.com/science/article/pii/S0952197621004255). *Engineering Applications of Artificial Intelligence*, 2022.
 
+* Rongkai Zhang, Cong Zhang, Zhiguang Cao, **Wen Song**\*, and Justin Dauwels. [Learning to Solve Multiple-TSP with Time Window and Rejection via Deep Reinforcement Learning](https://ieeexplore.ieee.org/document/9901466). *IEEE Transactions on Intelligent Transportation Systems (TITS)*, 2022. 
+
+
 * Zhizheng Zhang, **Wen Song**\* and Qiqiang Li\*. [Dual Aspect Self-Attention based on Transformer for Remaining Useful Life Prediction](https://ieeexplore.ieee.org/document/9737516). *IEEE Transactions on Instrumentation and Measurement (TIM)*, 2022
 
 * Zhonghao Zhang, Qiqiang Li\*, **Wen Song**\*, Pengfei Wei, Jing Guo. [A novel concavity based method for automatic segmentation of touching cells in microfluidic chips](https://www.sciencedirect.com/science/article/pii/S0957417422007692). *Expert Systems with Applications*, 2022.
@@ -29,7 +32,7 @@ Journal Papers
 
 * Jingwen Li, Yining Ma, Ruize Gao, Zhiguang Cao, Andrew Lim, **Wen Song** and Jie Zhang. [Deep reinforcement learning for solving the heterogeneous capacitated vehicle routing problem](https://ieeexplore.ieee.org/abstract/document/9547060/). *IEEE Transactions on Cybernetics*, 2021.
 
-* Jingwen Li, Liang Xin, Zhiguang Cao, Andrew Lim, **Wen Song** and Jie Zhang. [Heterogeneous Attentions for Solving Pickup and Delivery Problem via Deep Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/9352489/). *IEEE Transactions on Intelligent Transportation Systems (ITS)*, 2021.
+* Jingwen Li, Liang Xin, Zhiguang Cao, Andrew Lim, **Wen Song** and Jie Zhang. [Heterogeneous Attentions for Solving Pickup and Delivery Problem via Deep Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/9352489/). *IEEE Transactions on Intelligent Transportation Systems (TITS)*, 2021.
 
 * Yunyun Niu, Yongpeng Zhang, Zhiguang Cao, Kaizhou Gao, Jianhua Xiao, **Wen Song** and Fangwei Zhang. [MIMOA: A membrane-inspired multi-objective algorithm for green vehicle routing problem with stochastic demands](https://www.sciencedirect.com/science/article/pii/S221065022030420X). *Swarm and Evolutionary Computation*, 2021.
 
@@ -37,7 +40,7 @@ Journal Papers
 
 * Zhiguang Cao, Hongliang Guo, **Wen Song**, Kaizhou Gao, Zhenghua Chen, Le Zhang and Xuexi Zhang. [Using Reinforcement Learning to Minimize the Probability of Delay Occurrence in Transportation](https://ieeexplore.ieee.org/document/8952783). *IEEE Transactions on Vehicular Technology (TVT)*, 2020.
 
-* Zhiguang Cao, Hongliang Guo, **Wen Song**, Kaizhou Gao, Liujiang Kang, Xuexi Zhang and Qilun Wu. [Improving the Performance of Transportation Networks: A Semi-Centralized Pricing Approach](https://ieeexplore.ieee.org/abstract/document/9098067). *IEEE Transactions on Intelligent Transportation Systems (ITS)*, 2020.
+* Zhiguang Cao, Hongliang Guo, **Wen Song**, Kaizhou Gao, Liujiang Kang, Xuexi Zhang and Qilun Wu. [Improving the Performance of Transportation Networks: A Semi-Centralized Pricing Approach](https://ieeexplore.ieee.org/abstract/document/9098067). *IEEE Transactions on Intelligent Transportation Systems (TITS)*, 2020.
 
 * Chao Ma, Zhenbing Liu, Zhiguang Cao, **Wen Song**, Jie Zhang and Weiliang Zeng. [Cost-sensitive Deep Forest for Price Prediction](https://www.sciencedirect.com/science/article/abs/pii/S0031320320303022?via%3Dihub). *Pattern Recognition*, 2020.
 
@@ -52,6 +55,8 @@ Journal Papers
 
 Conference Papers
 =======
+* Yaoxin Wu, **Wen Song**, Zhiguang Cao, Jie Zhang, Abhishek Gupta, and Mingyan Simon Lin. [Graph Learning Assisted Multi-Objective Integer Programming](). *Advances in Neural Information Processing Systems (NeurIPS)*, 2022.
+
 * Yining Ma, Jingwen Li, Zhiguang Cao, **Wen Song**, Hongliang Guo, Yuejiao Gong, and Yeow Meng Chee. [Efficient Neural Neighbourhood Search for Pickup and Delivery Problems](https://arxiv.org/abs/2204.11399). *31st International Joint Conference on Artificial Intelligence (IJCAI)*, 2022.
 
 * Yaoxin Wu, **Wen Song**(#), Zhiguang Cao, and Jie Zhang. [Learning Scenario Representation for Solving Two-stage Stochastic Integer Programs](https://openreview.net/pdf?id=06Wy2BtxXrz). *International Conference on Learning Representations (ICLR)*, 2022.
