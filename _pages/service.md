@@ -11,8 +11,8 @@ redirect_from:
 
 Conference Program Committee Member
 ------
-* IJCAI 2022, 2021, 2019
-* KDD 2022
+* IJCAI 2023, 2022, 2021, 2019
+* KDD 2023, 2022
 * AAAI 2023, 2021, 2020
 * AAMAS 2021
 
