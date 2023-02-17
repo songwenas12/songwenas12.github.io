@@ -15,7 +15,9 @@ author_profile: true
 
 Journal Papers
 ======
-* **Wen Song**, Xinyang Chen, Qiqiang Li and Zhiguang Cao. [Flexible Job Shop Scheduling via Graph Neural Network and Deep Reinforcement Learning](https://ieeexplore.ieee.org/document/9826438). *IEEE Transactions on Industrial Informatics*, 2022.
+* **Wen Song**, Nan Mi, Qiqiang Li, Jing Zhuang and Zhiguang Cao. [Stochastic Economic Lot Scheduling via Self-Attention based Deep Reinforcement Learning](). *IEEE Transactions on Automation Science and Engineering (TASE)*, 2023. (To appear) 
+
+* **Wen Song**, Xinyang Chen, Qiqiang Li and Zhiguang Cao. [Flexible Job Shop Scheduling via Graph Neural Network and Deep Reinforcement Learning](https://ieeexplore.ieee.org/document/9826438). *IEEE Transactions on Industrial Informatics (TII)*, 2022.
 
 * **Wen Song**, Zhiguang Cao, Jie Zhang and Andrew Lim. [Learning Variable Ordering Heuristics for Solving Constraint Satisfaction Problems](https://www.sciencedirect.com/science/article/pii/S0952197621004255). *Engineering Applications of Artificial Intelligence*, 2022.
 
@@ -30,7 +32,7 @@ Journal Papers
 
 * Zhiguang Cao, Tingbo Liao, **Wen Song**\*, Zhenghua Chen and Chongshou Li. [Detecting the shuttlecock for a badminton robot: A YOLO based approach](https://www.sciencedirect.com/science/article/abs/pii/S0957417420306436). *Expert Systems with Applications*, 2021.
 
-* Jingwen Li, Yining Ma, Ruize Gao, Zhiguang Cao, Andrew Lim, **Wen Song** and Jie Zhang. [Deep reinforcement learning for solving the heterogeneous capacitated vehicle routing problem](https://ieeexplore.ieee.org/abstract/document/9547060/). *IEEE Transactions on Cybernetics*, 2021.
+* Jingwen Li, Yining Ma, Ruize Gao, Zhiguang Cao, Andrew Lim, **Wen Song** and Jie Zhang. [Deep reinforcement learning for solving the heterogeneous capacitated vehicle routing problem](https://ieeexplore.ieee.org/abstract/document/9547060/). *IEEE Transactions on Cybernetics (TCyb)*, 2021.
 
 * Jingwen Li, Liang Xin, Zhiguang Cao, Andrew Lim, **Wen Song** and Jie Zhang. [Heterogeneous Attentions for Solving Pickup and Delivery Problem via Deep Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/9352489/). *IEEE Transactions on Intelligent Transportation Systems (TITS)*, 2021.
 
@@ -60,6 +62,10 @@ Conference Papers
 * Yining Ma, Jingwen Li, Zhiguang Cao, **Wen Song**, Hongliang Guo, Yuejiao Gong, and Yeow Meng Chee. [Efficient Neural Neighbourhood Search for Pickup and Delivery Problems](https://arxiv.org/abs/2204.11399). *31st International Joint Conference on Artificial Intelligence (IJCAI)*, 2022.
 
 * Yaoxin Wu, **Wen Song**(#), Zhiguang Cao, and Jie Zhang. [Learning Scenario Representation for Solving Two-stage Stochastic Integer Programs](https://openreview.net/pdf?id=06Wy2BtxXrz). *International Conference on Learning Representations (ICLR)*, 2022.
+
+* Xiaohan Zhao, **Wen Song**\*, Qiqiang Li, Huadong Shi, Zhichao Kang and Chunmei Zhang. [A Deep Reinforcement Learning Approach for Resource-Constrained Project Scheduling](https://ieeexplore.ieee.org/abstract/document/10022122/). *IEEE Symposium Series on Computational Intelligence (SSCI)*, 2022.
+
+* Pengfei Wei, Xinghua Qu, **Wen Song** and Zejun Ma. [Dynamic Transfer Gaussian Process Regression](https://dl.acm.org/doi/abs/10.1145/3511808.3557303). *31st ACM International Conference on Information & Knowledge Management (CIKM)*, 2022.
 
 * Yaoxin Wu, **Wen Song**\*, Zhiguang Cao, and Jie Zhang. [Learning Large Neighborhood Search Policy for Integer Programming](https://arxiv.org/pdf/2111.03466.pdf). *Advances in Neural Information Processing Systems (NeurIPS)*, 2021.
 
