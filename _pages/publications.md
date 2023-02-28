@@ -15,7 +15,7 @@ author_profile: true
 
 Journal Papers
 ======
-* **Wen Song**, Nan Mi, Qiqiang Li, Jing Zhuang and Zhiguang Cao. [Stochastic Economic Lot Scheduling via Self-Attention based Deep Reinforcement Learning](). *IEEE Transactions on Automation Science and Engineering (TASE)*, 2023. (To appear) 
+* **Wen Song**, Nan Mi, Qiqiang Li, Jing Zhuang and Zhiguang Cao. [Stochastic Economic Lot Scheduling via Self-Attention based Deep Reinforcement Learning](https://ieeexplore.ieee.org/document/10054449). *IEEE Transactions on Automation Science and Engineering (TASE)*, 2023. (To appear) 
 
 * Jianan Zhou, Yaoxin Wu\*, Zhiguang Cao, **Wen Song**\*, Jie Zhang and Zhenghua Chen. [Learning Large Neighborhood Search for Vehicle Routing in Airport Ground Handling](). *IEEE Transactions on Knowledge and Data Engineering (TKDE)*, 2023. (To appear)
 
