@@ -15,9 +15,9 @@ author_profile: true
 
 Journal Papers
 ======
-* **Wen Song**, Nan Mi, Qiqiang Li, Jing Zhuang and Zhiguang Cao. [Stochastic Economic Lot Scheduling via Self-Attention based Deep Reinforcement Learning](https://ieeexplore.ieee.org/document/10054449). *IEEE Transactions on Automation Science and Engineering (TASE)*, 2023. (To appear) 
+* **Wen Song**, Nan Mi, Qiqiang Li, Jing Zhuang and Zhiguang Cao. [Stochastic Economic Lot Scheduling via Self-Attention based Deep Reinforcement Learning](https://ieeexplore.ieee.org/document/10054449). *IEEE Transactions on Automation Science and Engineering (TASE)*, 2023.
 
-* Jianan Zhou, Yaoxin Wu\*, Zhiguang Cao, **Wen Song**\*, Jie Zhang and Zhenghua Chen. [Learning Large Neighborhood Search for Vehicle Routing in Airport Ground Handling](). *IEEE Transactions on Knowledge and Data Engineering (TKDE)*, 2023. (To appear)
+* Jianan Zhou, Yaoxin Wu\*, Zhiguang Cao, **Wen Song**\*, Jie Zhang and Zhenghua Chen. [Learning Large Neighborhood Search for Vehicle Routing in Airport Ground Handling](https://ieeexplore.ieee.org/document/10054476). *IEEE Transactions on Knowledge and Data Engineering (TKDE)*, 2023.
 
 * **Wen Song**, Xinyang Chen, Qiqiang Li and Zhiguang Cao. [Flexible Job Shop Scheduling via Graph Neural Network and Deep Reinforcement Learning](https://ieeexplore.ieee.org/document/9826438). *IEEE Transactions on Industrial Informatics (TII)*, 2022.
 
@@ -59,7 +59,7 @@ Journal Papers
 
 Conference Papers
 =======
-* Yaoxin Wu, **Wen Song**, Zhiguang Cao, Jie Zhang, Abhishek Gupta, and Mingyan Simon Lin. [Graph Learning Assisted Multi-Objective Integer Programming](). *Advances in Neural Information Processing Systems (NeurIPS)*, 2022.
+* Yaoxin Wu, **Wen Song**, Zhiguang Cao, Jie Zhang, Abhishek Gupta, and Mingyan Simon Lin. [Graph Learning Assisted Multi-Objective Integer Programming](https://openreview.net/pdf?id=d9usspxbWmk). *Advances in Neural Information Processing Systems (NeurIPS)*, 2022.
 
 * Yining Ma, Jingwen Li, Zhiguang Cao, **Wen Song**, Hongliang Guo, Yuejiao Gong, and Yeow Meng Chee. [Efficient Neural Neighbourhood Search for Pickup and Delivery Problems](https://arxiv.org/abs/2204.11399). *31st International Joint Conference on Artificial Intelligence (IJCAI)*, 2022.
 
