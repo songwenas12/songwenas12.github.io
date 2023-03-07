@@ -19,6 +19,8 @@ Journal Papers
 
 * Jianan Zhou, Yaoxin Wu\*, Zhiguang Cao, **Wen Song**\*, Jie Zhang and Zhenghua Chen. [Learning Large Neighborhood Search for Vehicle Routing in Airport Ground Handling](https://ieeexplore.ieee.org/document/10054476). *IEEE Transactions on Knowledge and Data Engineering (TKDE)*, 2023.
 
+* Cong Zhang, Yaoxin Wu, Yining Ma, **Wen Song**\*, Zhang Le, Zhiguang Cao, Jie Zhang. [A review on learning to solve combinatorial optimisation problems in manufacturing](https://doi.org/10.1049/cim2.12072). *IET Collaborative Intelligent Manufacturing*, 2023.
+
 * **Wen Song**, Xinyang Chen, Qiqiang Li and Zhiguang Cao. [Flexible Job Shop Scheduling via Graph Neural Network and Deep Reinforcement Learning](https://ieeexplore.ieee.org/document/9826438). *IEEE Transactions on Industrial Informatics (TII)*, 2022.
 
 * **Wen Song**, Zhiguang Cao, Jie Zhang and Andrew Lim. [Learning Variable Ordering Heuristics for Solving Constraint Satisfaction Problems](https://www.sciencedirect.com/science/article/pii/S0952197621004255). *Engineering Applications of Artificial Intelligence*, 2022.
