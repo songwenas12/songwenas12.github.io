@@ -14,7 +14,8 @@ I am currently an associate professor with the Institute of Marine Science and T
 
 Research Interests
 ======
-My research mainly lies in the intersection of Artificial Intelligence and Operations Research. I am particularly interested in leveraging Deep Learning and Reinforcement Learning to solve challenging optimization problems in various application domains, such as resource allocation, vehicle routing, and power systems.
+My research mainly lies in the intersection of Artificial Intelligence and Operations Research. I am particularly interested in *learning to optimize*, which aims to leverage Deep Learning and Reinforcement Learning to solve challenging optimization problems in various practical domains such as transportation, manufacturing, and maritime logistics.
+
 
 Keywords:
 * Artificial Intelligence 
