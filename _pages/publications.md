@@ -61,7 +61,7 @@ Journal Papers
 
 Conference Papers
 =======
-* Jianan Zhou, Yaoxin Wu, **Wen Song**, Zhiguang Cao, and Jie Zhang. [Towards Omni-generalizable Neural Methods for Vehicle Routing Problems](https://openreview.net/forum?id=PlFBOnVOFg). *International Conference on Machine Learning (ICML)*, 2023.
+* Jianan Zhou, Yaoxin Wu\*, **Wen Song**\*, Zhiguang Cao, and Jie Zhang. [Towards Omni-generalizable Neural Methods for Vehicle Routing Problems](https://openreview.net/forum?id=PlFBOnVOFg). *International Conference on Machine Learning (ICML)*, 2023.
 
 * Yaoxin Wu, **Wen Song**, Zhiguang Cao, Jie Zhang, Abhishek Gupta, and Mingyan Simon Lin. [Graph Learning Assisted Multi-Objective Integer Programming](https://openreview.net/pdf?id=d9usspxbWmk). *Advances in Neural Information Processing Systems (NeurIPS)*, 2022.
 
