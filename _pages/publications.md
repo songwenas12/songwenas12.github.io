@@ -17,6 +17,8 @@ Journal Papers
 ======
 * **Wen Song**, Nan Mi, Qiqiang Li, Jing Zhuang and Zhiguang Cao. [Stochastic Economic Lot Scheduling via Self-Attention based Deep Reinforcement Learning](https://ieeexplore.ieee.org/document/10054449). *IEEE Transactions on Automation Science and Engineering (TASE)*, 2023.
 
+* Jingwen Li, Yining Ma, Zhiguang Cao, Yaoxin Wu, **Wen Song**\*, Jie Zhang and Yeow Meng Che. [Learning Feature Embedding Refiner for Solving Vehicle Routing Problems](). *IEEE Transactions on Neural Networks and Learning Systems (TNNLS)*, 2023.
+
 * Jianan Zhou, Yaoxin Wu\*, Zhiguang Cao, **Wen Song**\*, Jie Zhang and Zhenghua Chen. [Learning Large Neighborhood Search for Vehicle Routing in Airport Ground Handling](https://ieeexplore.ieee.org/document/10054476). *IEEE Transactions on Knowledge and Data Engineering (TKDE)*, 2023.
 
 * Cong Zhang, Yaoxin Wu, Yining Ma, **Wen Song**\*, Zhang Le, Zhiguang Cao, Jie Zhang. [A review on learning to solve combinatorial optimisation problems in manufacturing](https://doi.org/10.1049/cim2.12072). *IET Collaborative Intelligent Manufacturing*, 2023.
