@@ -20,12 +20,13 @@ Conference Program Committee Member
 
 Reviewer for International Journal
 ------
-* Journal of Artificial Intelligent Research (JAIR)
+* IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
 * IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
 * IEEE Transactions on Cybernetics (TCYB)
 * IEEE Transactions on Intelligent Transportation Systems (TITS)
 * IEEE Transactions on Automation Science and Engineering (TASE)
 * IEEE Transactions on Vehicular Technology (TVT)
+* Journal of Artificial Intelligent Research (JAIR)
 * Artificial Intelligence Review
 * Applied Intelligence
 * IISE Transactions (Previous IIE Transactions)
