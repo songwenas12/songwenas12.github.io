@@ -26,6 +26,7 @@ Reviewer for International Journal
 * IEEE Transactions on Intelligent Transportation Systems (TITS)
 * IEEE Transactions on Automation Science and Engineering (TASE)
 * IEEE Transactions on Vehicular Technology (TVT)
+* IEEE Transactions on Instrumentation & Measurement (TIM)
 * Journal of Artificial Intelligent Research (JAIR)
 * Artificial Intelligence Review
 * Applied Intelligence
