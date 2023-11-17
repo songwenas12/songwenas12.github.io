@@ -15,9 +15,10 @@ Conference Program Committee Member
 * NeurIPS 2023
 * IJCAI 2023, 2022, 2021, 2019
 * KDD 2023, 2022
-* AAAI 2023, 2021, 2020
+* AAAI 2024, 2023, 2021, 2020
 * AAMAS 2021
 * ECAI 2023
+* SDM 2023
 
 Reviewer for International Journal
 ------
@@ -30,6 +31,7 @@ Reviewer for International Journal
 * IEEE Transactions on Vehicular Technology (TVT)
 * IEEE Transactions on Instrumentation & Measurement (TIM)
 * Journal of Artificial Intelligent Research (JAIR)
+* Engineering Applications of Artificial Intelligence
 * Artificial Intelligence Review
 * Applied Intelligence
 * IISE Transactions (Previous IIE Transactions)
