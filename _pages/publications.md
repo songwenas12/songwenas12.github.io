@@ -71,6 +71,8 @@ Conference Papers
 
 * Jianan Zhou, Yaoxin Wu\*, **Wen Song**\*, Zhiguang Cao, and Jie Zhang. [Towards Omni-generalizable Neural Methods for Vehicle Routing Problems](https://openreview.net/forum?id=PlFBOnVOFg). *International Conference on Machine Learning (ICML)*, 2023.
 
+* Xinjie Liang, **Wen Song**\*, and Pengfei Wei. [Dynamic Job Shop Scheduling via Deep Reinforcement Learning](https://ieeexplore.ieee.org/document/10356485/). *The 35th IEEE International Conference on Tools with Artificial Intelligence (ICTAI)*, 2023.
+
 * Yaoxin Wu, **Wen Song**, Zhiguang Cao, Jie Zhang, Abhishek Gupta, and Mingyan Simon Lin. [Graph Learning Assisted Multi-Objective Integer Programming](https://openreview.net/pdf?id=d9usspxbWmk). *Advances in Neural Information Processing Systems (NeurIPS)*, 2022.
 
 * Yining Ma, Jingwen Li, Zhiguang Cao, **Wen Song**, Hongliang Guo, Yuejiao Gong, and Yeow Meng Chee. [Efficient Neural Neighbourhood Search for Pickup and Delivery Problems](https://arxiv.org/abs/2204.11399). *31st International Joint Conference on Artificial Intelligence (IJCAI)*, 2022.
