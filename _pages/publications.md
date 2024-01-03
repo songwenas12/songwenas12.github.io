@@ -27,6 +27,8 @@ Journal Papers
 
 * Xin Jin, Zhentang Duan, **Wen Song**\* and Qiqiang Li\*. [Container stacking optimization based on Deep Reinforcement Learning](https://www.sciencedirect.com/science/article/pii/S0952197623006929). *Engineering Applications of Artificial Intelligence*, 2023.
 
+* Zhizheng Zhang, **Wen Song**\*, Qiqiang Li\* and Hui Gao. [Multiscale global and local self-attention-based network for remaining useful life prediction](https://iopscience.iop.org/article/10.1088/1361-6501/acf401/meta). *Measurement Science and Technology*, 2023.
+
 * **Wen Song**, Xinyang Chen, Qiqiang Li and Zhiguang Cao. [Flexible Job Shop Scheduling via Graph Neural Network and Deep Reinforcement Learning](https://ieeexplore.ieee.org/document/9826438). *IEEE Transactions on Industrial Informatics (TII)*, 2022.
 
 * **Wen Song**, Zhiguang Cao, Jie Zhang and Andrew Lim. [Learning Variable Ordering Heuristics for Solving Constraint Satisfaction Problems](https://www.sciencedirect.com/science/article/pii/S0952197621004255). *Engineering Applications of Artificial Intelligence*, 2022.
