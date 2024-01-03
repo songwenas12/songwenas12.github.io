@@ -32,6 +32,7 @@ Reviewer for International Journal
 * IEEE Transactions on Industrial Informatics (TII)
 * IEEE Transactions on Vehicular Technology (TVT)
 * IEEE Transactions on Instrumentation & Measurement (TIM)
+* IEEE/CAA Journal of Automatica Sinica
 * Journal of Artificial Intelligent Research (JAIR)
 * Engineering Applications of Artificial Intelligence
 * Artificial Intelligence Review
