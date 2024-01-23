@@ -69,6 +69,8 @@ Journal Papers
 
 Conference Papers
 =======
+* Cong Zhang, Zhiguang Cao, **Wen Song**\*, Yaoxin Wu, and Jie Zhang. [Deep Reinforcement Learning Guided Improvement Heuristic for Job Shop Scheduling](https://openreview.net/forum?id=jsWCmrsHHs). *International Conference on Learning Representations (ICLR)*, 2024.
+
 * Yuan Jiang, Zhiguang Cao, Yaoxin Wu, **Wen Song**\*, and Jie Zhang. [Ensemble-based Deep Reinforcement Learning for Vehicle Routing Problems under Distribution Shift](https://openreview.net/forum?id=HoBbZ1vPAh). *Advances in Neural Information Processing Systems (NeurIPS)*, 2023.
 
 * Jianan Zhou, Yaoxin Wu\*, **Wen Song**\*, Zhiguang Cao, and Jie Zhang. [Towards Omni-generalizable Neural Methods for Vehicle Routing Problems](https://openreview.net/forum?id=PlFBOnVOFg). *International Conference on Machine Learning (ICML)*, 2023.
