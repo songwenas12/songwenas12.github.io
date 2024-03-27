@@ -15,7 +15,7 @@ author_profile: true
 
 Journal Papers
 ======
-* Xin Jin, Nan Mi, **Wen Song** and Qiqiang Li. [Scheduling of Twin Automated Stacking Cranes based on Deep Reinforcement Learning](). *Computers & Industrial Engineering*, 2024.
+* Xin Jin, Nan Mi, **Wen Song**\* and Qiqiang Li. [Scheduling of Twin Automated Stacking Cranes based on Deep Reinforcement Learning](). *Computers & Industrial Engineering*, 2024.
 
 * **Wen Song**, Nan Mi, Qiqiang Li, Jing Zhuang and Zhiguang Cao. [Stochastic Economic Lot Scheduling via Self-Attention based Deep Reinforcement Learning](https://ieeexplore.ieee.org/document/10054449). *IEEE Transactions on Automation Science and Engineering (TASE)*, 2023.
 
