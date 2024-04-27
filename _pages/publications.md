@@ -15,7 +15,7 @@ author_profile: true
 
 Journal Papers
 ======
-* Xin Jin, Nan Mi, **Wen Song**\* and Qiqiang Li. [Scheduling of Twin Automated Stacking Cranes based on Deep Reinforcement Learning](). *Computers & Industrial Engineering*, 2024.
+* Xin Jin, Nan Mi, **Wen Song**\* and Qiqiang Li. [Scheduling of Twin Automated Stacking Cranes based on Deep Reinforcement Learning](https://www.sciencedirect.com/science/article/abs/pii/S0360835224002250). *Computers & Industrial Engineering*, 2024.
 
 * **Wen Song**, Nan Mi, Qiqiang Li, Jing Zhuang and Zhiguang Cao. [Stochastic Economic Lot Scheduling via Self-Attention based Deep Reinforcement Learning](https://ieeexplore.ieee.org/document/10054449). *IEEE Transactions on Automation Science and Engineering (TASE)*, 2023.
 
@@ -72,6 +72,8 @@ Journal Papers
 Conference Papers
 =======
 * Cong Zhang, Zhiguang Cao, **Wen Song**\*, Yaoxin Wu, and Jie Zhang. [Deep Reinforcement Learning Guided Improvement Heuristic for Job Shop Scheduling](https://openreview.net/forum?id=jsWCmrsHHs). *International Conference on Learning Representations (ICLR)*, 2024.
+
+* Cong Zhang, Zhiguang Cao, Yaoxin Wu, **Wen Song**, and Jing Sun. [Learning Topological Representations with Bidirectional Graph Attention Network for Solving Job Shop Scheduling Problem]() *The 40th Conference on Uncertainty in Artificial Intelligence (UAI)*, 2024. 
 
 * Yuan Jiang, Zhiguang Cao, Yaoxin Wu, **Wen Song**\*, and Jie Zhang. [Ensemble-based Deep Reinforcement Learning for Vehicle Routing Problems under Distribution Shift](https://openreview.net/forum?id=HoBbZ1vPAh). *Advances in Neural Information Processing Systems (NeurIPS)*, 2023.
 
