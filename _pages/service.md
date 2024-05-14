@@ -24,21 +24,22 @@ Conference Program Committee Member
 
 Reviewer for International Journal
 ------
-* IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
-* IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
-* IEEE Transactions on Cybernetics (TCYB)
-* IEEE Transactions on Intelligent Transportation Systems (TITS)
-* IEEE Transactions on Automation Science and Engineering (TASE)
-* IEEE Transactions on Evolutionary Computation (TEVC)
-* IEEE Transactions on Industrial Informatics (TII)
-* IEEE Transactions on Vehicular Technology (TVT)
-* IEEE Transactions on Instrumentation & Measurement (TIM)
+* IEEE Transactions on Pattern Analysis and Machine Intelligence
+* IEEE Transactions on Neural Networks and Learning Systems
+* IEEE Transactions on Cybernetics
+* IEEE Transactions on Intelligent Transportation Systems
+* IEEE Transactions on Automation Science and Engineering
+* IEEE Transactions on Evolutionary Computation
+* IEEE Transactions on Industrial Informatics
+* IEEE Transactions on Vehicular Technology
+* IEEE Transactions on Emerging Topics in Computational Intelligence
+* IEEE Transactions on Instrumentation & Measurement
 * IEEE/CAA Journal of Automatica Sinica
-* Journal of Artificial Intelligent Research (JAIR)
+* Journal of Artificial Intelligent Research
 * Engineering Applications of Artificial Intelligence
 * Artificial Intelligence Review
 * Applied Intelligence
-* IISE Transactions (Previous IIE Transactions)
+* IISE Transactions
 * International Journal of Production Research
 * Computers & Operations Research
 * Simulation Modelling Practice and Theory
