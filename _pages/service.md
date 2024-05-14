@@ -19,7 +19,7 @@ Conference Program Committee Member
 * KDD 2024, 2023, 2022
 * AAAI 2024, 2023, 2021, 2020
 * AAMAS 2021
-* ECAI 2023
+* ECAI 2024, 2023
 * SDM 2023
 
 Reviewer for International Journal
