@@ -14,7 +14,7 @@ Conference Program Committee Member
 * ICML 2024 (Area Chair)
 * IEEE CAI 2024 (Area Chair)
 * ICLR 2024
-* NeurIPS 2023
+* NeurIPS 2024, 2023
 * IJCAI 2024, 2023, 2022, 2021, 2019
 * KDD 2024, 2023, 2022
 * AAAI 2024, 2023, 2021, 2020
