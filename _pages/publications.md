@@ -71,9 +71,11 @@ Journal Papers
 
 Conference Papers
 =======
+* Yu Sun, Kai Wang, Zhipeng Hu, Runze Wu, Yaoxin Wu, **Wen Song**\*, Xudong Shen, Tangjie Lv, and Changjie Fan. [MGMatch: Fast Matchmaking with Nonlinear Objective and Constraints via Multimodal Deep Graph Learning](). *The 30th SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)*, 2024.
+
 * Cong Zhang, Zhiguang Cao, **Wen Song**\*, Yaoxin Wu, and Jie Zhang. [Deep Reinforcement Learning Guided Improvement Heuristic for Job Shop Scheduling](https://openreview.net/forum?id=jsWCmrsHHs). *International Conference on Learning Representations (ICLR)*, 2024.
 
-* Cong Zhang, Zhiguang Cao, Yaoxin Wu, **Wen Song**, and Jing Sun. [Learning Topological Representations with Bidirectional Graph Attention Network for Solving Job Shop Scheduling Problem]() *The 40th Conference on Uncertainty in Artificial Intelligence (UAI)*, 2024. 
+* Cong Zhang, Zhiguang Cao, Yaoxin Wu, **Wen Song**\*, and Jing Sun. [Learning Topological Representations with Bidirectional Graph Attention Network for Solving Job Shop Scheduling Problem]() *The 40th Conference on Uncertainty in Artificial Intelligence (UAI)*, 2024. 
 
 * Yuan Jiang, Zhiguang Cao, Yaoxin Wu, **Wen Song**\*, and Jie Zhang. [Ensemble-based Deep Reinforcement Learning for Vehicle Routing Problems under Distribution Shift](https://openreview.net/forum?id=HoBbZ1vPAh). *Advances in Neural Information Processing Systems (NeurIPS)*, 2023.
 
