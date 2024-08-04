@@ -16,8 +16,8 @@ Conference Program Committee Member
 * ICLR 2024
 * NeurIPS 2024, 2023
 * IJCAI 2024, 2023, 2022, 2021, 2019
-* KDD 2024, 2023, 2022
-* AAAI 2024, 2023, 2021, 2020
+* KDD 2025, 2024, 2023, 2022
+* AAAI 2025 (SPC), 2024, 2023, 2021, 2020
 * AAMAS 2021
 * ECAI 2024, 2023
 * SDM 2023
@@ -36,6 +36,7 @@ Reviewer for International Journal
 * IEEE Transactions on Instrumentation & Measurement
 * IEEE/CAA Journal of Automatica Sinica
 * Journal of Artificial Intelligent Research
+* Advanced Engineering Informatics
 * Engineering Applications of Artificial Intelligence
 * Artificial Intelligence Review
 * Applied Intelligence
