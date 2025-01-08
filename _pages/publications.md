@@ -15,9 +15,11 @@ author_profile: true
 
 Journal Papers
 ======
-* Xin Jin, Nan Mi, **Wen Song**\* and Qiqiang Li. [Scheduling of Twin Automated Stacking Cranes based on Deep Reinforcement Learning](https://www.sciencedirect.com/science/article/abs/pii/S0360835224002250). *Computers & Industrial Engineering*, 2024.
+* Zhizheng Zhang, Hui Gao, Wenxu Sun, **Wen Song**\* and Qiqiang Li. [Multivariate time series generation based on dual-channel Transformer conditional GAN for industrial remaining useful life prediction](https://www.sciencedirect.com/science/article/abs/pii/S0950705124013832). *Knowledge-Based Systems*, 2025.
 
-* Zhizheng Zhang, Hui Gao, Wenxu Sun, **Wen Song**\* and Qiqiang Li. [Multivariate time series generation based on dual-channel Transformer conditional GAN for industrial remaining useful life prediction](https://www.sciencedirect.com/science/article/abs/pii/S0950705124013832). *Knowledge-Based Systems*, 2024.
+* Zhizheng Zhang, **Wen Song**\*, Qiong Wu, Wenxu Sun, Qiqiang Li and Lei Jia. [A novel local enhanced channel self-attention based on Transformer for industrial remaining useful life prediction](https://www.sciencedirect.com/science/article/abs/pii/S0952197624019742). *Engineering Applications of Artificial Intelligence*, 2025.
+
+* Xin Jin, Nan Mi, **Wen Song**\* and Qiqiang Li. [Scheduling of Twin Automated Stacking Cranes based on Deep Reinforcement Learning](https://www.sciencedirect.com/science/article/abs/pii/S0360835224002250). *Computers & Industrial Engineering*, 2024.
 
 * **Wen Song**, Nan Mi, Qiqiang Li, Jing Zhuang and Zhiguang Cao. [Stochastic Economic Lot Scheduling via Self-Attention based Deep Reinforcement Learning](https://ieeexplore.ieee.org/document/10054449). *IEEE Transactions on Automation Science and Engineering (TASE)*, 2023.
 
