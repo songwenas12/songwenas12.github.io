@@ -13,9 +13,9 @@ Conference Program Committee Member
 ------
 * ICML 2025 (Area Chair), 2024 (Area Chair)
 * ICLR 2025 (Area Chair), 2024
-* NeurIPS 2024, 2023
+* NeurIPS 2025, 2024, 2023
 * AAAI 2025 (Senior PC), 2024, 2023, 2021, 2020
-* KDD 2025, 2024, 2023, 202
+* KDD 2025, 2024, 2023, 2022
 * IJCAI 2024, 2023, 2022, 2021, 2019
 * UAI 2025
 * AAMAS 2021
