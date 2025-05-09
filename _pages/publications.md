@@ -15,6 +15,8 @@ author_profile: true
 
 Journal Papers
 ======
+* Yaoxin Wu, Zhiguang Cao, **Wen Song**\* and Yingqian Zhang. [Solving two-stage stochastic integer programs via representation learning](https://www.sciencedirect.com/science/article/abs/pii/S0893608025003259). *Neural Networks*, 2025.
+
 * Zhizheng Zhang, Hui Gao, Wenxu Sun, **Wen Song**\* and Qiqiang Li. [Multivariate time series generation based on dual-channel Transformer conditional GAN for industrial remaining useful life prediction](https://www.sciencedirect.com/science/article/abs/pii/S0950705124013832). *Knowledge-Based Systems*, 2025.
 
 * Zhizheng Zhang, **Wen Song**\*, Qiong Wu, Wenxu Sun, Qiqiang Li and Lei Jia. [A novel local enhanced channel self-attention based on Transformer for industrial remaining useful life prediction](https://www.sciencedirect.com/science/article/abs/pii/S0952197624019742). *Engineering Applications of Artificial Intelligence*, 2025.
