@@ -19,8 +19,9 @@ Conference Program Committee Member
 * IJCAI 2024, 2023, 2022, 2021, 2019
 * UAI 2025
 * AAMAS 2021
-* ECAI 2024, 2023
+* ECAI 2025, 2024, 2023
 * SDM 2023
+* PRICAI 2025
 * IEEE CAI 2024 (Area Chair)
 
 Reviewer for International Journal
