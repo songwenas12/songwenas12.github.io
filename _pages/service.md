@@ -11,10 +11,10 @@ redirect_from:
 
 Conference Program Committee Member
 ------
-* ICML 2025 (Area Chair), 2024 (Area Chair)
-* ICLR 2025 (Area Chair), 2024
+* ICML 2025 (AC), 2024 (AC)
+* ICLR 2025 (AC), 2024
 * NeurIPS 2025, 2024, 2023
-* AAAI 2025 (Senior PC), 2024, 2023, 2021, 2020
+* AAAI 2026 (SPC), 2025 (SPC), 2024, 2023, 2021, 2020
 * KDD 2025, 2024, 2023, 2022
 * IJCAI 2024, 2023, 2022, 2021, 2019
 * UAI 2025
@@ -22,7 +22,7 @@ Conference Program Committee Member
 * ECAI 2025, 2024, 2023
 * SDM 2023
 * PRICAI 2025
-* IEEE CAI 2024 (Area Chair)
+* IEEE CAI 2024 (AC)
 
 Reviewer for International Journal
 ------
