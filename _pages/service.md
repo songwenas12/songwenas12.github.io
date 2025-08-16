@@ -12,7 +12,7 @@ redirect_from:
 Conference Program Committee Member
 ------
 * ICML 2025 (AC), 2024 (AC)
-* ICLR 2025 (AC), 2024
+* ICLR 2026 (AC), 2025 (AC), 2024
 * NeurIPS 2025, 2024, 2023
 * AAAI 2026 (SPC), 2025 (SPC), 2024, 2023, 2021, 2020
 * KDD 2025, 2024, 2023, 2022
@@ -49,3 +49,4 @@ Reviewer for International Journal
 * International Transactions in Operational Research
 * Journal of Renewable and Sustainable Energy
 * Plos One
+
