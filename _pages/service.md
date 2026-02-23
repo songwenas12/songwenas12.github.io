@@ -37,6 +37,7 @@ Reviewer for International Journal
 * IEEE Transactions on Emerging Topics in Computational Intelligence
 * IEEE Transactions on Instrumentation & Measurement
 * IEEE/CAA Journal of Automatica Sinica
+* Journal of Machine Learning Research
 * Journal of Artificial Intelligent Research
 * Advanced Engineering Informatics
 * Engineering Applications of Artificial Intelligence
@@ -49,5 +50,6 @@ Reviewer for International Journal
 * International Transactions in Operational Research
 * Journal of Renewable and Sustainable Energy
 * Plos One
+
 
 
