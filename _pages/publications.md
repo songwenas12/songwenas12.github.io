@@ -77,6 +77,10 @@ Journal Papers
 
 Conference Papers
 =======
+* Hefang Qing, Miao Zhang, Yaoxin Wu, Weinan Huang, Jianhao Yang, **Wen Song**\*, Gang Wang. [Instancewise Adaptive Scheduling via Derivative-Free Meta-Learning](https://openreview.net/pdf?id=XcCqRcHzJ3). *International Conference on Learning Representations (ICLR)*, 2026.
+
+* Yiding Shi, Jianan Zhou, **Wen Song**\*, Jieyi Bi, Yaoxin Wu, Zhiguang Cao, Jie Zhang. [Generalizable Heuristic Generation Through LLMs with Meta-Optimization](https://openreview.net/pdf?id=tIQZ7pVN6S). International Conference on Learning Representations (ICLR), 2026. 
+
 * Yu Sun, Kai Wang, Zhipeng Hu, Runze Wu, Yaoxin Wu, **Wen Song**\*, Xudong Shen, Tangjie Lv, and Changjie Fan. [MGMatch: Fast Matchmaking with Nonlinear Objective and Constraints via Multimodal Deep Graph Learning](https://dl.acm.org/doi/abs/10.1145/3637528.3671553). *The 30th SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)*, 2024.
 
 * Cong Zhang, Zhiguang Cao, **Wen Song**\*, Yaoxin Wu, and Jie Zhang. [Deep Reinforcement Learning Guided Improvement Heuristic for Job Shop Scheduling](https://openreview.net/forum?id=jsWCmrsHHs). *International Conference on Learning Representations (ICLR)*, 2024.
