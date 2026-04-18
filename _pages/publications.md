@@ -15,6 +15,8 @@ author_profile: true
 
 Journal Papers
 ======
+* Peixin Huang, Yu Sun, Gang Wang, Yaoxin Wu, Qiong Wu, **Wen Song**\* and Yew-Soon Ong. [Learning to Generate Preferences for Multiobjective Deep Learning](https://ieeexplore.ieee.org/document/11482511). *IEEE Transactions on Industrial Informatics (TII)*, 2026.
+
 * Yaoxin Wu, Zhiguang Cao, **Wen Song**\* and Yingqian Zhang. [Solving two-stage stochastic integer programs via representation learning](https://www.sciencedirect.com/science/article/abs/pii/S0893608025003259). *Neural Networks*, 2025.
 
 * Zhizheng Zhang, Hui Gao, Wenxu Sun, **Wen Song**\* and Qiqiang Li. [Multivariate time series generation based on dual-channel Transformer conditional GAN for industrial remaining useful life prediction](https://www.sciencedirect.com/science/article/abs/pii/S0950705124013832). *Knowledge-Based Systems*, 2025.
