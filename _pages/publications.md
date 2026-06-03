@@ -15,6 +15,9 @@ author_profile: true
 
 Journal Papers
 ======
+* Shuangcun Gui, Zhiguang Cao, **Wen Song**\* and Yew-Soon Ong. [Vision-Assisted Foundation Model for Solving Multi-Task Vehicle
+Routing Problems](). *IEEE Transactions on Neural Networks and Learning Systems (TNNLS)*, 2026.
+
 * Peixin Huang, Yu Sun, Gang Wang, Yaoxin Wu, Qiong Wu, **Wen Song**\* and Yew-Soon Ong. [Learning to Generate Preferences for Multiobjective Deep Learning](https://ieeexplore.ieee.org/document/11482511). *IEEE Transactions on Industrial Informatics (TII)*, 2026.
 
 * Yaoxin Wu, Zhiguang Cao, **Wen Song**\* and Yingqian Zhang. [Solving two-stage stochastic integer programs via representation learning](https://www.sciencedirect.com/science/article/abs/pii/S0893608025003259). *Neural Networks*, 2025.
@@ -79,9 +82,11 @@ Journal Papers
 
 Conference Papers
 =======
+* Peixin Huang, Yaoxin Wu, Yining Ma, Cathy Wu, Wei Zhang, and **Wen Song**\*. [A General Neural Backbone for Mixed-Integer Linear Optimization via Dual Attention](https://openreview.net/pdf?id=fBAMvSNH8N). *International Conference on Machine Learning (ICML)*, 2026.
+
 * Hefang Qing, Miao Zhang, Yaoxin Wu, Weinan Huang, Jianhao Yang, **Wen Song**\*, Gang Wang. [Instancewise Adaptive Scheduling via Derivative-Free Meta-Learning](https://openreview.net/pdf?id=XcCqRcHzJ3). *International Conference on Learning Representations (ICLR)*, 2026.
 
-* Yiding Shi, Jianan Zhou, **Wen Song**\*, Jieyi Bi, Yaoxin Wu, Zhiguang Cao, Jie Zhang. [Generalizable Heuristic Generation Through LLMs with Meta-Optimization](https://openreview.net/pdf?id=tIQZ7pVN6S). International Conference on Learning Representations (ICLR), 2026. 
+* Yiding Shi, Jianan Zhou, **Wen Song**\*, Jieyi Bi, Yaoxin Wu, Zhiguang Cao, Jie Zhang. [Generalizable Heuristic Generation Through LLMs with Meta-Optimization](https://openreview.net/pdf?id=tIQZ7pVN6S). *International Conference on Learning Representations (ICLR)*, 2026. 
 
 * Yu Sun, Kai Wang, Zhipeng Hu, Runze Wu, Yaoxin Wu, **Wen Song**\*, Xudong Shen, Tangjie Lv, and Changjie Fan. [MGMatch: Fast Matchmaking with Nonlinear Objective and Constraints via Multimodal Deep Graph Learning](https://dl.acm.org/doi/abs/10.1145/3637528.3671553). *The 30th SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)*, 2024.
 
