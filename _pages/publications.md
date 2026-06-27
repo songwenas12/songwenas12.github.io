@@ -16,7 +16,7 @@ author_profile: true
 Journal Papers
 ======
 * Shuangcun Gui, Zhiguang Cao, **Wen Song**\* and Yew-Soon Ong. [Vision-Assisted Foundation Model for Solving Multi-Task Vehicle
-Routing Problems](). *IEEE Transactions on Neural Networks and Learning Systems (TNNLS)*, 2026.
+Routing Problems](https://ieeexplore.ieee.org/document/11578301). *IEEE Transactions on Neural Networks and Learning Systems (TNNLS)*, 2026.
 
 * Peixin Huang, Yu Sun, Gang Wang, Yaoxin Wu, Qiong Wu, **Wen Song**\* and Yew-Soon Ong. [Learning to Generate Preferences for Multiobjective Deep Learning](https://ieeexplore.ieee.org/document/11482511). *IEEE Transactions on Industrial Informatics (TII)*, 2026.
 
